@@ -1,0 +1,5 @@
+com\mycompany\customermanager1\User_.class
+com\mycompany\customermanager1\User.class
+com\mycompany\customermanager1\service\UserFacadeREST.class
+com\mycompany\customermanager1\service\AbstractFacade.class
+com\mycompany\customermanager1\service\ApplicationConfig.class
